@@ -123,3 +123,43 @@ Para esta investigación, se realizó una escala que mide los niveles de materna
 A partir de la siguiente imagen, se puede decir que en Chile, los jóvenes tienen ideas maternalistas en un nivel intermedio, ya que la mayor concentración de datos se encuentra en la categoría 12 aproximadamente, teniendo una máxima de 20.
 
 ![](images/escala1.png){width="595"}
+
+## Regresión lineal 
+
+## 
+
+-   **Gráfico 3**
+
+Al observar el gráfico 3 podemos decir que las variables tienen una asociación negativa, pues se puede observar que a medida que aumenta el nivel educacional o educación alcanzada por mujeres entre 26 y 29 años, disminuyen las ideas maternalistas en general.
+
+![](images/regresionlineal1.png){width="355"}
+
+-   **Gráfico 4**
+
+Al igual que el gráfico anterior, las variables del gráfico 4 tienen una asociación negativa, pues a medida que aumenta el nivel educacional o educación alcanzada por mujeres entre 26 y 29 años, disminuyen considerablemente las ideas maternalistas en torno a la realización de las mujeres sólo por tener hijos.
+
+![](images/regresionlineal2.png){width="354"}
+
+-   **Gráfico 5**
+
+Sin embargo, en el gráfico 5 se observa que a medida que aumenta el nivel educacional o educación alcanzada por mujeres entre 26 y 29 años, disminuyen las ideas maternalistas en torno al cuidado. Si bien, la asociación de las variables es negativa, la disminución de las ideas maternalistas en torno a los cuidados resulta no ser tan considerable como con la idea de realización de la mujer por tener hijos.
+
+![](images/regresionlineal3.png){width="353"}
+
+-   **Modelo de regresión lineal simple**
+
+En la siguiente imagen, se puede observar que en el Modelo 1 que por cada unidad en que se aumenta la educación (respecto a la educación básica) en aquellas mujeres de entre 26 y 29 años, las ideas maternalistas disminuyen en 0,86 en la Educación media con un 99% de confianza (p\<0,01), disminuye en 1,76 en la Educación superior con un 99,9% de confianza (p\<0,001) y disminuye en 2,23 en aquellas que alcazan un Postgrado con un 99,9% de confianza (p\<0,001).
+
+El intercepto indica que (teóricamente) una persona con edad 0 tendría un promedio de idead maternalistas en general de 6,69. Por último, podemos observar en la imagen que el Modelo 1 logra explicar un 6% de la varianza de la variable dependiente (R2=0,06).
+
+![](images/modeloderegresionsimple.png){width="382"}
+
+-   **Gráfico 6**
+
+A continuación podemos observar lo anteriormente dicho en el gráfico 6. Aquí se ve que las ideas maternalistas disminuyen respecto a la Educación básica en mujeres de entre 26 y 29 años en un 0.86 para la Educación media, un 1,76 para la Educación superior y un 2,23 para las que alcanzan un Postgrado.
+
+![](images/graficomodeloderegresionlineal.png){width="515"}
+
+## Conclusiones 
+
+En conclusión, podemos decir que la hipótesis de esta investigación se cumple, pues como queda demostrado con la regresión lineal, a medida que aumentan la educación alcanzada en mujeres de entre 26 y 29 años de edad, disminuyen las ideas maternalistas que éstas puedan llegar a tener.
