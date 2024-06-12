@@ -1,0 +1,26 @@
+---
+title: "Maternalismo y Educación"
+author: "Paulina Sánchez"
+format: revealjs
+editor: visual
+bibliography: Maternalismo.bib 
+theme: sky
+---
+
+# Maternalismo
+
+El maternalismo está enraizado en la cultura latinoamericana y, en especial, en Chile (Alejandra Ramm and Ramm 2020). Este concepto se refiere a la idea que fusiona a las mujeres con la maternidad, al mismo tiempo que se vincula con una construcción identitaria de la feminidad, especialmente latinoamericana (Alvarez Minte, Ramm, and Gideon 2021). En este sentido, la mujer resulta esencializada por la maternidad, vinculándola a su feminidad y a roles congruentes a la idea de mujer que se encarga de su hogar en las labores domésticas, de cuidado y de trabajos reproductivos.
+
+# Datos
+
+# Descriptivos
+
+# Resultados
+
+# Conclusión
+
+# Referencias
+
+-   Alejandra Ramm, and Alejandra Ramm. 2020. “Latin America: A Fertile Ground for Maternalism.” Motherhood, Social Policies and Women’s Activism in Latin America, January, 13–37. https://doi.org/10.1007/978-3-030-21402-9_2.
+-   Alvarez Minte, Gabriela, Alejandra Ramm, and Jasmine Gideon. 2021. “Maternidad, Cuidados, Políticas públicas y COVID-19 En Chile.” REVISTA SAAP 15 (2). https://doi.org/10.46468/rsaap.15.2.A5. Arteaga-Aguirre, Catalina, Valentina Cabezas-Cartagena, and Fernanda Ramírez-Cid. 2021. “Mujeres, Teletrabajo y Estrategias de Cuidados En El Contexto de Pandemia En Chile.” Revista CS, no. 35 (December): 11–39. https://doi.org/10.18046/recs.i35.4879.
+-   Lorenzo Pinar, Francisco Javier, and Universidad de Salamanca, eds. 2009. La Familia En La Historia. 1. ed. Aquilafuente 150. Salamanca: Ediciones Universidad de Salamanca.
